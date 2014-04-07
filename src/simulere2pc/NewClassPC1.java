@@ -12,5 +12,5 @@ package simulere2pc;
  */
 public class NewClassPC1
 {
-    
+    int PC1;
 }
