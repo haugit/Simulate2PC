@@ -19,6 +19,7 @@ public class Simulere2PC
     public static void main(String[] args)
     {
         System.out.println("PC 2");
+        System.out.println("PC 1");
     }
     
 }
