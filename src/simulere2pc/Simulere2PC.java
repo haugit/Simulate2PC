@@ -18,7 +18,7 @@ public class Simulere2PC
      */
     public static void main(String[] args)
     {
-        // TODO code application logic here
+        System.out.println("PC 2");
     }
     
 }
